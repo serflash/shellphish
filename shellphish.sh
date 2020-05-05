@@ -102,7 +102,7 @@ createpage
 start1
 
 elif [[ $option == 20 ]]; then
-server="pinterest"
+server="vk"
 start1
 
 elif [[ $option == q ]]; then
